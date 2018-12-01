@@ -1,6 +1,11 @@
 # CronDocker
 
 
+![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)
+![PHP](https://img.shields.io/badge/php-7.2-brightgreen.svg)
+![SYMFONY](https://img.shields.io/badge/symfony-4.1-red.svg)
+![DOCKER](https://img.shields.io/badge/docker-3-yellow.svg)
+
 The following instructions will allow to run cronjobs in a Docker container using **nginx**, **php 7.2** and **Symfony**. In order to run multiple services in a container, we'll use [supervisord](https://docs.docker.com/config/containers/multi-service_container/).
 
 
