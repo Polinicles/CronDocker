@@ -1,0 +1,3 @@
+* * * * * cd /var/www && /usr/local/bin/php bin/console app:say-hello >>/var/log/cron.log 2>&1
+
+#empty line for docker
