@@ -13,7 +13,7 @@ The following instructions will allow to run cronjobs in a Docker container usin
 
 ### Prerequisites
 
-Make sure you have [Docker](https://www.docker.com/) installed in yout system.
+Make sure you have [Docker](https://www.docker.com/) installed in your system.
 
 ### Initialize environment
 
